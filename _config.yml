@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Arthur Cho
+description: 1 | 2 | 3
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /portfolio-site #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
